@@ -1,0 +1,11 @@
+/Users/markgarnick/projects/fruit-machine/bin/Debug/netcoreapp2.2/fruit-machine.deps.json
+/Users/markgarnick/projects/fruit-machine/bin/Debug/netcoreapp2.2/fruit-machine.runtimeconfig.json
+/Users/markgarnick/projects/fruit-machine/bin/Debug/netcoreapp2.2/fruit-machine.runtimeconfig.dev.json
+/Users/markgarnick/projects/fruit-machine/bin/Debug/netcoreapp2.2/fruit-machine.dll
+/Users/markgarnick/projects/fruit-machine/bin/Debug/netcoreapp2.2/fruit-machine.pdb
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.csprojAssemblyReference.cache
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.csproj.CoreCompileInputs.cache
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.AssemblyInfoInputs.cache
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.AssemblyInfo.cs
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.dll
+/Users/markgarnick/projects/fruit-machine/obj/Debug/netcoreapp2.2/fruit-machine.pdb
